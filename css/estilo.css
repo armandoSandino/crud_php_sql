@@ -1,0 +1,25 @@
+
+
+    .carousel-item{
+        transition: transform 3s ease, opacity .6s ease-out
+      }
+      .foto_alumno{
+        height:300px;
+      }
+  .texto-cajas{
+    text-align: center;
+  }
+  .foto-cabecera{
+    width:100%;
+    height: auto;
+  }
+  .navbar .navbar-nav .nav-item:hover,
+  .navbar .navbar-nav .nav-item:focus{
+    background: white;
+   
+  }
+  .navbar .navbar-nav .nav-item a:hover,
+  .navbar .navbar-nav .nav-item a:focus{
+    color:black;
+  }
+
